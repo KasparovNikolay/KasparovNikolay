@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 <!-- [![Website](https://img.shields.io/badge/sahil.surge.sh-005AF0?style=for-the-badge&logo=amp&logoColor=white)](my website link) -->
 <!-- [![Instagram](https://img.shields.io/badge/sahil.bondre-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](my inst link) -->
 
-- ✉️  **Email:** To get my email paste: `c2FoaWxib25kcmVAZ21haWwuY29t` [here](https://www.base64decode.org/) or [here](https://emn178.github.io/online-tools/base64_decode.html). I've Base 64 encoded my email address to keep it safe from email scrapping bots.
-- 📄 [**Resume**](https://drive.google.com/file/d/1d1mJBkVCVlpySKlrsv6r2rtpKOMseRY2/view?usp=sharing)
-<!-- - 🤙 [**Schedule a Call**](https://calendly.com/sahilbondre/30min) -->
-
 ### ⚡ Skills
 
 #### Programming Languages
