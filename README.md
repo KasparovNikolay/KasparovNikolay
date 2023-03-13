@@ -1,16 +1,11 @@
 
-### Hi there 👋 My name is Nikolay Kasparov. And i am React frontend developer.
+# Hi there 👋 I'm Nikolay Kasparov.
 
-### 🤝 Reach out to Me
+&nbsp;
+&nbsp;
+&nbsp;
 
-<!-- [![Twitter: godcrampy](https://img.shields.io/badge/godcrampy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)] -->
-<!-- (my twitter link) -->
-[![Linkedin: Nikolai Kasparov](https://img.shields.io/badge/Kasparov%20Nikolai-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-kasparov-056a9b122/)
-[![GitHub KasparovNikolay](https://img.shields.io/badge/KasparovNikolay-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/godcrampy](https://github.com/KasparovNikolay))
-<!-- [![Website](https://img.shields.io/badge/sahil.surge.sh-005AF0?style=for-the-badge&logo=amp&logoColor=white)](my website link) -->
-<!-- [![Instagram](https://img.shields.io/badge/sahil.bondre-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](my inst link) -->
-
-### ⚡ Skills
+### ⚡ Skills</h2>
 
 #### Programming Languages
 
@@ -34,3 +29,15 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+&nbsp;
+&nbsp;
+
+### 🤝 Reach out to Me
+
+<!-- [![Twitter: godcrampy](https://img.shields.io/badge/godcrampy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)] -->
+<!-- (my twitter link) -->
+[![Linkedin: Nikolai Kasparov](https://img.shields.io/badge/Kasparov%20Nikolai-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-kasparov-056a9b122/)
+[![GitHub KasparovNikolay](https://img.shields.io/badge/KasparovNikolay-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/godcrampy](https://github.com/KasparovNikolay))
+<!-- [![Website](https://img.shields.io/badge/sahil.surge.sh-005AF0?style=for-the-badge&logo=amp&logoColor=white)](my website link) -->
+<!-- [![Instagram](https://img.shields.io/badge/sahil.bondre-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](my inst link) -->
