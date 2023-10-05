@@ -1,10 +1,6 @@
 
 # Hi there 👋 I'm Nikolay Kasparov.
 
-&nbsp;
-&nbsp;
-&nbsp;
-
 ### ⚡ Skills</h2>
 
 #### Programming Languages
