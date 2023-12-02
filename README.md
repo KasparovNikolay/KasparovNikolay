@@ -33,7 +33,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Rollup](https://img.shields.io/badge/Rollup-%23FFFFFF.svg?style=for-the-badge&logo=vite&logoColor=fe3333)
+![Rollup](https://img.shields.io/badge/Rollup-%23404d59.svg?style=for-the-badge&logo=vite&logoColor=fe3333)
 
 
 &nbsp;
