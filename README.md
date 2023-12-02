@@ -43,5 +43,6 @@
 
 [![Linkedin: Nikolai Kasparov](https://img.shields.io/badge/Kasparov%20Nikolai-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-kasparov-056a9b122/)
 [![Telegram Kasparov Nikolay](https://img.shields.io/badge/Kasparov%20Nikolay-%23121011.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KasparovN)
-<!-- [![Website](https://img.shields.io/badge/sahil.surge.sh-005AF0?style=for-the-badge&logo=amp&logoColor=white)](my website link) -->
 [![Instagram](https://img.shields.io/badge/nikolay_kasparov-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikolay_kasparov)
+<!-- [![Website](https://img.shields.io/badge/sahil.surge.sh-005AF0?style=for-the-badge&logo=amp&logoColor=white)](my website link) -->
+<!-- [![Email](https://img.shields.io/badge/sahil.surge.sh-005AF0?style=for-the-badge&logo=amp&logoColor=white)](my website link) -->
